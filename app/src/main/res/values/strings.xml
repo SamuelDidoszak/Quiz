@@ -1,0 +1,28 @@
+<resources>
+    <string name="app_name"> Quiz </string>
+    <string name="question">generic question</string>
+    <string name="trueText">true</string>
+    <string name="falseText">false</string>
+    <string name="currentScore">2/10</string>
+
+    <string name="correctAnswer">You\'re correct</string>
+    <string name="wrongAnswer">You\'re wrong</string>
+    <string name="closeApp">close app</string>
+    <string name="retake">retake</string>
+
+    <string-array name="questions">
+        <item>Was Apollo\'s 11 mission in 1969?</item>
+        <item>Is Sagittarius A* in the center of our galaxy?</item>
+        <item>Does the atom look like a star system?</item>
+        <item>Is 5g something more than light?</item>
+        <item>Will AI become smarter than humanity?</item>
+    </string-array>
+    <string name="question1">Was Apollo\'s 11 mission in 1969?</string>
+    <string name="question2">Is Sagittarius A* in the center of our galaxy?</string>
+    <string name="question3">Does the atom look like a star system?</string>
+    <string name="question4">Is 5g something more than light?</string>
+    <string name="question5">Will AI become smarter than humanity?</string>
+    <string name="questionHint">question</string>
+    <string name="goBack">fuck go back</string>
+    <string name="addQuestion">add question</string>
+</resources>

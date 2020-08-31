@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">#6200EE</color>
+    <color name="colorPrimaryDark">#3700B3</color>
+    <color name="colorAccent">#03DAC5</color>
+    <color name="trueColor">#329536</color>
+    <color name="falseColor">#D1564D</color>
+    <color name="scoreLow">#B80000</color>
+    <color name="scoreMedium">#BA8E0B</color>
+    <color name="scoreHigh">#00CC08</color>
+
+    <color name="questionButtonBG">#3261d0</color>
+</resources>
